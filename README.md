@@ -13,7 +13,7 @@ search engine that displays admin users.
   
 **Note:** Used libraries  
   
-  #popups
+  # popups
   rflutter_alert: ^2.0.4
   flutter_slidable: ^1.2.0
   badges: ^2.0.2
@@ -33,17 +33,17 @@ search engine that displays admin users.
   fluttertoast: ^8.0.9
   auto_size_text: ^3.0.0
 
-  #Display
+  # Display
   video_player: ^2.3.0
   image_picker: ^0.8.4+11
   percent_indicator: ^4.0.0
   conditional_builder_null_safety: ^0.0.6
 
-  #bloc:
+  # bloc:
   bloc: ^8.0.3
   flutter_bloc: ^8.0.1
 
- #firebase
+ # firebase
   firebase_auth: ^3.3.11
   firebase_core: ^1.13.1
   cloud_firestore: ^3.1.10
