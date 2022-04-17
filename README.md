@@ -63,7 +63,6 @@ search engine that displays admin users.
   | Training_Content_Screen | Post_Content_Popup | Goals_Screen | Likes_comments_Screen_display |
   |![Training_Content_Screen](https://user-images.githubusercontent.com/64713966/163720678-2c02441d-986f-43eb-b54c-41daf7d312d7.JPG)|![Post_Content_Popup](https://user-images.githubusercontent.com/64713966/163723612-6c12eda5-d83d-4846-b840-47cad42f66b3.JPG)
 | ![Likes_comments_Screen_display](https://user-images.githubusercontent.com/64713966/163720774-c70f2175-6609-45cc-aa4d-55bf59ee8ca2.JPG)
-  
   | Manager_Screen | Edit_Profile_Screen | Add_Product_Screen | Add_Training_Screen |
   |![Manager_Screen](https://user-images.githubusercontent.com/64713966/163723176-d6c09103-0840-427b-bd9e-68bfde9b8ae8.JPG)|![Edit_Profile_Screen](https://user-images.githubusercontent.com/64713966/163723201-796ff145-9a36-461e-b146-15540491b90c.JPG) | ![Add_Product_Screen](https://user-images.githubusercontent.com/64713966/163723221-f049ca61-7bf5-4082-9749-07b2b2943522.JPG)| ![Add_Training_Screen](https://user-images.githubusercontent.com/64713966/163723232-dd8b0080-8a64-43bc-bec0-fd1589e5f918.JPG)
 
