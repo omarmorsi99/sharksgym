@@ -17,7 +17,7 @@ search engine that displays admin users.
 
 ## Screenshots
 | Feeds_Screen | Register_Screen | Login_Screen | visited_places_screen |
-  | :---: | :---: | :---: | :---: | :---: | :---: |
+  | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | ![Feeds_Screen](https://user-images.githubusercontent.com/64713966/163719880-0fe9d1ea-a2fb-47c4-8e29-0afb32a6cd26.JPG)
 | ![Register_Screen](https://user-images.githubusercontent.com/64713966/163719924-850b383f-13cc-4364-99e3-109cd7ace2a8.JPG)
 | ![Login_Screen](https://user-images.githubusercontent.com/64713966/163720024-d15685c0-cd6e-484f-ab89-2db3498b9d18.JPG)
