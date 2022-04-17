@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761853594013",
+    "project_id": "sharks-2be78",
+    "storage_bucket": "sharks-2be78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761853594013:android:2f522f5ea0a0532b6d8774",
+        "android_client_info": {
+          "package_name": "com.example.sharks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761853594013-15dl7293ebtkin9vrjkdkunn3a8grjar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDO0DAjGSmKE2Q9nvrTdrrUK15ZKzSM1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761853594013-15dl7293ebtkin9vrjkdkunn3a8grjar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
