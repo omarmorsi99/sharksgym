@@ -18,4 +18,4 @@ search engine that displays admin users.
 ## Screenshots
 | Feeds_Screen | mark_on_map_screen | place_preview_screen | visited_places_screen |
 | :---: | :---: | :---: | :---: |
-| ![Home](![1344](https://user-images.githubusercontent.com/64713966/163719655-ace94820-3265-4c93-8832-65303f6b0744.JPG)
+| ![Feeds](https://user-images.githubusercontent.com/64713966/163719655-ace94820-3265-4c93-8832-65303f6b0744.JPG)
