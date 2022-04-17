@@ -23,8 +23,7 @@ search engine that displays admin users.
 |![Chats_Screen](https://user-images.githubusercontent.com/64713966/163720533-c872bf09-46b5-44a1-908a-e1b81e4ddf94.JPG)|![Single_Chat_Screen](https://user-images.githubusercontent.com/64713966/163720554-cf117f7e-b569-410c-91a7-286aea7df69c.JPG) |![User_Profile](https://user-images.githubusercontent.com/64713966/163720590-fbdc74e7-3f25-45eb-8dc9-f118be710b00.JPG) | ![Training_Progress](https://user-images.githubusercontent.com/64713966/163720622-b693d9a5-a563-43b6-9221-f9714033add8.JPG)
     | Training_Content_Screen | Post_Content_Popup | Goals_Screen | Likes_comments_Screen_display |
 |![Training_Content_Screen](https://user-images.githubusercontent.com/64713966/163720678-2c02441d-986f-43eb-b54c-41daf7d312d7.JPG)
-|![Post_Content_Popup](https://user-images.githubusercontent.com/64713966/163720706-7fb87725-fdbe-458e-a5e6-4182d6084834.JPG) |![Goals_Screen](https://user-images.githubusercontent.com/64713966/163720746-7e8cf32a-3125-42e5-8441-66cb15ebb7b0.JPG)
- | ![Likes_comments_Screen_display](https://user-images.githubusercontent.com/64713966/163720774-c70f2175-6609-45cc-aa4d-55bf59ee8ca2.JPG)
+|![Post_Content_Popup](https://user-images.githubusercontent.com/64713966/163720706-7fb87725-fdbe-458e-a5e6-4182d6084834.JPG) |![Goals_Screen](https://user-images.githubusercontent.com/64713966/163720746-7e8cf32a-3125-42e5-8441-66cb15ebb7b0.JPG) | ![Likes_comments_Screen_display](https://user-images.githubusercontent.com/64713966/163720774-c70f2175-6609-45cc-aa4d-55bf59ee8ca2.JPG)
 
 
 
