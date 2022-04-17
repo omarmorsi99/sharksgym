@@ -11,9 +11,46 @@ also there's also chat that users can contact with admin users.
 product screen displays products that Admin can add in manager screen in profile page.
 search engine that displays admin users.
   
-**Note:**
+**Note:** Used libraries  
+  
+  #popups
+  rflutter_alert: ^2.0.4
+  flutter_slidable: ^1.2.0
+  badges: ^2.0.2
+  page_transition: ^2.0.5
 
-**Note:** All Functions and variables are working.. 0 buggs ..
+  #launcher icon
+  flutter_launcher_icons: ^0.9.2
+
+  #Chat Recorder
+  social_media_recorder: ^0.1.61
+
+
+  # Design
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.3.1
+  font_awesome_flutter: ^10.0.0
+  fluttertoast: ^8.0.9
+  auto_size_text: ^3.0.0
+
+  #Display
+  video_player: ^2.3.0
+  image_picker: ^0.8.4+11
+  percent_indicator: ^4.0.0
+  conditional_builder_null_safety: ^0.0.6
+
+  #bloc:
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+
+ #firebase
+  firebase_auth: ^3.3.11
+  firebase_core: ^1.13.1
+  cloud_firestore: ^3.1.10
+  firebase_storage: ^10.2.9
+  firebase_messaging: ^11.2.11
+
+**Note:** Project Testable anytime.
 
 
 
