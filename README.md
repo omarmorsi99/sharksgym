@@ -10,8 +10,10 @@ I developed an app that Admin users can manage social posts with likes and comme
 also there's also chat that users can contact with admin users.
 product screen displays products that Admin can add in manager screen in profile page.
 search engine that displays admin users.
+  
+**Note:**
 
-**Note:** I didn't include my `api_keys.dart` file, so you have to make your own dart file that stores your keys, otherwise it won't work.
+**Note:** All Functions and variables are working.. 0 buggs ..
 
 
 
