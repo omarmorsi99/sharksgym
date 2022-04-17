@@ -11,8 +11,6 @@ also there's also chat that users can contact with admin users.
 product screen displays products that Admin can add in manager screen in profile page.
 search engine that displays admin users.
 
-I'm able to get the users location or let them mark it manually on map using [**Google Maps Platform**](https://developers.google.com/maps) APIs, in addition to the [**location**](https://pub.dev/packages/location), and [**google_maps_flutter**](https://pub.dev/packages/google_maps_flutter) packages.
-
 **Note:** I didn't include my `api_keys.dart` file, so you have to make your own dart file that stores your keys, otherwise it won't work.
 
 
@@ -20,4 +18,4 @@ I'm able to get the users location or let them mark it manually on map using [**
 ## Screenshots
 | add_new_place_screen | mark_on_map_screen | place_preview_screen | visited_places_screen |
 | :---: | :---: | :---: | :---: |
-| ![Home](https://user-images.githubusercontent.com/32794378/150840579-74f0c2c9-f77e-46c5-8847-e5624cd05c1f.png) | ![Product](https://user-images.githubusercontent.com/32794378/150840685-e97598a5-40f0-4a5f-8d93-55bd950bb4a1.png) | ![place_details](https://user-images.githubusercontent.com/32794378/150840840-6ae4b33e-051b-41b9-9b13-df048a7c9178.png) | ![visited_places](https://user-images.githubusercontent.com/32794378/150840852-110933b0-7569-4cfe-81a0-685942490257.png)|
+| ![Home](![1344](https://user-images.githubusercontent.com/64713966/163719655-ace94820-3265-4c93-8832-65303f6b0744.JPG)
