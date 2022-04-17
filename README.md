@@ -20,10 +20,7 @@ search engine that displays admin users.
   | :---: | :---: | :---: | :---: |
 | ![Feeds_Screen](https://user-images.githubusercontent.com/64713966/163719880-0fe9d1ea-a2fb-47c4-8e29-0afb32a6cd26.JPG)| ![Register_Screen](https://user-images.githubusercontent.com/64713966/163719924-850b383f-13cc-4364-99e3-109cd7ace2a8.JPG)| ![Login_Screen](https://user-images.githubusercontent.com/64713966/163720024-d15685c0-cd6e-484f-ab89-2db3498b9d18.JPG)| ![Training_Screen](https://user-images.githubusercontent.com/64713966/163720402-ce14177b-21e9-43be-9ca0-d1dfbe4a3186.JPG)
   | Chats_Screen | Single_Chat_Screen | User_Profile | Training_Progress |
-|![Chats_Screen](https://user-images.githubusercontent.com/64713966/163720533-c872bf09-46b5-44a1-908a-e1b81e4ddf94.JPG)
- |![Single_Chat_Screen](https://user-images.githubusercontent.com/64713966/163720554-cf117f7e-b569-410c-91a7-286aea7df69c.JPG)
- |![User_Profile](https://user-images.githubusercontent.com/64713966/163720590-fbdc74e7-3f25-45eb-8dc9-f118be710b00.JPG)
- | ![Training_Progress](https://user-images.githubusercontent.com/64713966/163720622-b693d9a5-a563-43b6-9221-f9714033add8.JPG)
+|![Chats_Screen](https://user-images.githubusercontent.com/64713966/163720533-c872bf09-46b5-44a1-908a-e1b81e4ddf94.JPG)|![Single_Chat_Screen](https://user-images.githubusercontent.com/64713966/163720554-cf117f7e-b569-410c-91a7-286aea7df69c.JPG) |![User_Profile](https://user-images.githubusercontent.com/64713966/163720590-fbdc74e7-3f25-45eb-8dc9-f118be710b00.JPG) | ![Training_Progress](https://user-images.githubusercontent.com/64713966/163720622-b693d9a5-a563-43b6-9221-f9714033add8.JPG)
 
 
 
