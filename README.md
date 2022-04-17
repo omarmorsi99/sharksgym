@@ -20,5 +20,7 @@ search engine that displays admin users.
 | :---: | :---: | :---: | :---: |
 | ![Feeds](https://user-images.githubusercontent.com/64713966/163719880-0fe9d1ea-a2fb-47c4-8e29-0afb32a6cd26.JPG)
 | ![Register](https://user-images.githubusercontent.com/64713966/163719924-850b383f-13cc-4364-99e3-109cd7ace2a8.JPG)
+| ![Register](https://user-images.githubusercontent.com/64713966/163719924-850b383f-13cc-4364-99e3-109cd7ace2a8.JPG)
+| ![Register](https://user-images.githubusercontent.com/64713966/163719924-850b383f-13cc-4364-99e3-109cd7ace2a8.JPG)
 
 
