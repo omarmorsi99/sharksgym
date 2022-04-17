@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Social-Community-App<br><br>
-  /repos/:user/:repo
+ 
 
 ## About
 I developed an app that Admin users can manage social posts with likes and comments handling for each user using Db of [**firebase**](https://pub.dev/packages/firebase_core). Admin users also can manage trainings by normal users, if they're from sharks members.
